@@ -1,0 +1,38 @@
+.todo-container{
+    margin: 20px;
+    margin-bottom: 10px;
+    width: 50%;
+    margin-left: 25%;
+}
+.todo-container h1{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: rgba(247, 20, 20, 0.877);
+}
+.todo-container input{
+    width: 80%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+   
+}
+.container{
+    margin: 10px;
+}
+.welcome{
+    font-size: 45px;
+    font-weight: 700;
+}
+.rows{
+    text-align: left;
+}
+.button{
+    width: 100px;
+}
+.text{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: darkgreen;
+}
